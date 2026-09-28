@@ -6,7 +6,7 @@ The application supports task management, due dates, authentication, and automat
 
 ## 📸 Application Preview
 
-![Todo Notification App](./assets/APP_View.png)
+![Todo Notification App](./Assets/APP_View.png)
 
 ## ✨ Features
 
@@ -85,13 +85,13 @@ The exact structure may vary depending on the current version of the application
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/bilalrasheed922/Todo_APP_With_Notification_logic.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd Todo_APP_With_Notification_logic
 ```
 
 ### 2. Install Dependencies
